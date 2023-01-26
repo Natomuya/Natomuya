@@ -1,5 +1,5 @@
 <h1 align="center">おはようみなさん! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
-<img align='right' src="https://i.imgur.com/UJi9bZp.gif" width="260em" height="260em">
+<img align='right' src="https://i.imgur.com/UJi9bZp.gif" width="240em" height="240em">
 
 <div align="center">
   <a href="https://github.com/Natomuya">
