@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/Natomuya">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Natomuya&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=Natomuya&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </div>
 
 <h2 align="center">Tools and Technologies:</h2>  
