@@ -30,7 +30,7 @@
 ```python
 class WhoAmI:
     user = 'Iasmim'
-    age = 16
+    age = 17
     current_edu = "???"
     
     skills = [ 'Korean', 'English', 'Japanese', 'Portuguese' ]
