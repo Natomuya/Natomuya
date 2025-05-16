@@ -30,10 +30,10 @@
 ```python
 class WhoAmI:
     user = 'Iasmim'
-    age = 17
+    age = 19
     current_edu = "???"
     
-    skills = [ 'Korean', 'English', 'Japanese', 'Portuguese' ]
+    skills = ['English', 'Japanese', 'Portuguese' ]
     hobbies = [ 'Gaming', 'Watching Anime', 'Study']
   
     def getCity():
